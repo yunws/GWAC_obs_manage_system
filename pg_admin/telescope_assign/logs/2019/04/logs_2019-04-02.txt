@@ -1,0 +1,50 @@
+================================================================================== 
+                               The SVOM BA system 
+================================================================================== 
+         Logs for the date : 2019-04-02 generated automatically 
+
+
+2019-04-02 14:32:42.33:	 Starting the observation plan code  
+2019-04-02 14:32:42.64:	 An ERROR occured when trying to make the observation_plan  
+2019-04-02 14:32:42.64:	time data '2019-04-02 13:36:08' does not match format '%Y-%m-%d %H:%M:%S.%f'  
+2019-04-02 14:32:42.647302:	 The observation plan has not been performed 
+ 2019-04-02 14:32:42.64:	 End of the observation plan code 
+==========
+2019-04-02 14:32:42.64:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-04-02 14:32:42.64:	name 'Grid_ID_planned' is not defined  
+2019-04-02 14:32:42.648121:	 The observation plan has not been stored in the DB 
+ 2019-04-02 14:32:42.64:	 End of the observation plan code 
+==========
+2019-04-02 14:43:07.48:	 Starting the observation plan code  
+2019-04-02 14:43:07.75:	 An ERROR occured when trying to make the observation_plan  
+2019-04-02 14:43:07.75:	time data '2019-04-02 14:24:09' does not match format '%Y-%m-%d %H:%M:%S.%f'  
+2019-04-02 14:43:07.758634:	 The observation plan has not been performed 
+ 2019-04-02 14:43:07.75:	 End of the observation plan code 
+==========
+2019-04-02 14:43:07.75:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-04-02 14:43:07.75:	name 'Grid_ID_planned' is not defined  
+2019-04-02 14:43:07.759469:	 The observation plan has not been stored in the DB 
+ 2019-04-02 14:43:07.75:	 End of the observation plan code 
+==========
+2019-04-02 14:43:21.23:	 Starting the observation plan code  
+2019-04-02 14:43:21.49:	 An ERROR occured when trying to make the observation_plan  
+2019-04-02 14:43:21.49:	time data '2019-04-02 14:24:09' does not match format '%Y-%m-%d %H:%M:%S.%f'  
+2019-04-02 14:43:21.494418:	 The observation plan has not been performed 
+ 2019-04-02 14:43:21.49:	 End of the observation plan code 
+==========
+2019-04-02 14:43:21.49:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-04-02 14:43:21.49:	name 'Grid_ID_planned' is not defined  
+2019-04-02 14:43:21.495260:	 The observation plan has not been stored in the DB 
+ 2019-04-02 14:43:21.49:	 End of the observation plan code 
+==========
+2019-04-02 14:44:26.21:	 Starting the observation plan code  
+2019-04-02 14:44:26.47:	 An ERROR occured when trying to make the observation_plan  
+2019-04-02 14:44:26.47:	time data '2019-04-02 14:24:09' does not match format '%Y-%m-%d %H:%M:%S.%f'  
+2019-04-02 14:44:26.476194:	 The observation plan has not been performed 
+ 2019-04-02 14:44:26.47:	 End of the observation plan code 
+==========
+2019-04-02 14:44:26.47:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-04-02 14:44:26.47:	name 'Grid_ID_planned' is not defined  
+2019-04-02 14:44:26.477031:	 The observation plan has not been stored in the DB 
+ 2019-04-02 14:44:26.47:	 End of the observation plan code 
+==========

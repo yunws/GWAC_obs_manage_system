@@ -1,0 +1,5 @@
+db_host = 10.0.10.236
+db_port = 5432
+db_user = yunwei
+db_passwd = gwac1234
+db_db = gwacyw 

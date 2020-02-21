@@ -1,0 +1,13 @@
+{
+    "CMM_host": "10.0.10.122",
+    "CMM_user_bj": "hxh_office",
+    "CMM_user_xl": "Xinglong_user",
+    "CMM_password": "Svom2021",
+    "CMM_db": "svom_ba_db",
+    "yunwei_host_bj": "10.0.10.236",
+    "yunwei_host_xl": "172.28.8.28",
+    "yunwei_user": "yunwei",
+    "yunwei_password": "gwac1234",
+    "yunwei_db": "gwacyw",
+    "yunwei_port": "5432"
+}

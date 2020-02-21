@@ -1,0 +1,8 @@
+observatory_lat = 40:23:45.36 # Xinglong
+observatory_lon = 117:34:28.35 # Xinglong
+observatory_elevation = 930 # Xinglong
+zenith_sun_min = 100 # night time when sun zenith > 100
+zenith_min = 65  #set observable constrains
+gal_min = 10  #set observable constrains
+hour_ang_limit = 4.9 #set hour angle limit < 3
+moon_dis_min_para = 0-0.5:10|0.5-0.8:20|0.8-1:30   

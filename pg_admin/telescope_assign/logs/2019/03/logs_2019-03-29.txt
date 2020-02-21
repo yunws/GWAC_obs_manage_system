@@ -1,0 +1,299 @@
+================================================================================== 
+                               The SVOM BA system 
+================================================================================== 
+         Logs for the date : 2019-03-29 generated automatically 
+
+
+2019-03-29 01:34:11.53:	 Starting the observation plan code  
+2019-03-29 01:34:11.97:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 01:34:11.97:	[Errno 2] No such file or directory: '../trigger/MS190328x/Initial0.xml'  
+2019-03-29 01:34:11.974954:	 The observation plan has not been performed 
+ 2019-03-29 01:34:11.97:	 End of the observation plan code 
+==========
+2019-03-29 01:34:11.97:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 01:34:11.97:	name 'Grid_ID_planned' is not defined  
+2019-03-29 01:34:11.975777:	 The observation plan has not been stored in the DB 
+ 2019-03-29 01:34:11.97:	 End of the observation plan code 
+==========
+2019-03-29 01:37:56.52:	 Starting the observation plan code  
+2019-03-29 01:37:56.81:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 01:37:56.81:	[Errno 2] No such file or directory: '../trigger/MS190328x/Initial0.xml'  
+2019-03-29 01:37:56.815274:	 The observation plan has not been performed 
+ 2019-03-29 01:37:56.81:	 End of the observation plan code 
+==========
+2019-03-29 01:37:56.81:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 01:37:56.81:	name 'Grid_ID_planned' is not defined  
+2019-03-29 01:37:56.816094:	 The observation plan has not been stored in the DB 
+ 2019-03-29 01:37:56.81:	 End of the observation plan code 
+==========
+2019-03-29 01:38:13.21:	 Starting the observation plan code  
+2019-03-29 01:38:13.50:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 01:38:13.50:	[Errno 2] No such file or directory: '../trigger/MS190328x/Initial0.xml'  
+2019-03-29 01:38:13.504589:	 The observation plan has not been performed 
+ 2019-03-29 01:38:13.50:	 End of the observation plan code 
+==========
+2019-03-29 01:38:13.50:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 01:38:13.50:	name 'Grid_ID_planned' is not defined  
+2019-03-29 01:38:13.505415:	 The observation plan has not been stored in the DB 
+ 2019-03-29 01:38:13.50:	 End of the observation plan code 
+==========
+2019-03-29 01:43:43.03:	 Starting the observation plan code  
+2019-03-29 01:43:43.18:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 01:43:43.18:	[Errno 2] No such file or directory: '../trigger/MS190329b/Initial0.xml'  
+2019-03-29 01:43:43.182594:	 The observation plan has not been performed 
+ 2019-03-29 01:43:43.18:	 End of the observation plan code 
+==========
+2019-03-29 01:43:43.18:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 01:43:43.18:	name 'Grid_ID_planned' is not defined  
+2019-03-29 01:43:43.183429:	 The observation plan has not been stored in the DB 
+ 2019-03-29 01:43:43.18:	 End of the observation plan code 
+==========
+2019-03-29 01:44:45.04:	 Starting the observation plan code  
+2019-03-29 01:44:45.23:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 01:44:45.23:	[Errno 2] No such file or directory: '../trigger/MS190329b/Initial0.xml'  
+2019-03-29 01:44:45.236366:	 The observation plan has not been performed 
+ 2019-03-29 01:44:45.23:	 End of the observation plan code 
+==========
+2019-03-29 01:44:45.23:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 01:44:45.23:	name 'Grid_ID_planned' is not defined  
+2019-03-29 01:44:45.237468:	 The observation plan has not been stored in the DB 
+ 2019-03-29 01:44:45.23:	 End of the observation plan code 
+==========
+2019-03-29 01:45:30.61:	 Starting the observation plan code  
+2019-03-29 01:45:30.90:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 01:45:30.90:	[Errno 2] No such file or directory: '../trigger/MS190329b/Initial0.xml'  
+2019-03-29 01:45:30.906759:	 The observation plan has not been performed 
+ 2019-03-29 01:45:30.90:	 End of the observation plan code 
+==========
+2019-03-29 01:45:30.90:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 01:45:30.90:	name 'Grid_ID_planned' is not defined  
+2019-03-29 01:45:30.907596:	 The observation plan has not been stored in the DB 
+ 2019-03-29 01:45:30.90:	 End of the observation plan code 
+==========
+2019-03-29 01:47:02.67:	 Starting the observation plan code  
+2019-03-29 01:47:02.81:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 01:47:02.81:	[Errno 2] No such file or directory: '../trigger/MS190329b/Initial0.xml'  
+2019-03-29 01:47:02.815797:	 The observation plan has not been performed 
+ 2019-03-29 01:47:02.81:	 End of the observation plan code 
+==========
+2019-03-29 01:47:02.81:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 01:47:02.81:	name 'Grid_ID_planned' is not defined  
+2019-03-29 01:47:02.816622:	 The observation plan has not been stored in the DB 
+ 2019-03-29 01:47:02.81:	 End of the observation plan code 
+==========
+2019-03-29 02:24:36.31:	 Starting the observation plan code  
+2019-03-29 02:24:36.61:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 02:24:36.61:	[Errno 2] No such file or directory: '../trigger/MS190329b/Initial0.xml'  
+2019-03-29 02:24:36.611650:	 The observation plan has not been performed 
+ 2019-03-29 02:24:36.61:	 End of the observation plan code 
+==========
+2019-03-29 02:24:36.61:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 02:24:36.61:	name 'Grid_ID_planned' is not defined  
+2019-03-29 02:24:36.612478:	 The observation plan has not been stored in the DB 
+ 2019-03-29 02:24:36.61:	 End of the observation plan code 
+==========
+2019-03-29 02:26:57.42:	 Starting the observation plan code  
+2019-03-29 02:26:57.72:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 02:26:57.72:	[Errno 2] No such file or directory: '../trigger/MS190329b/Initial0.xml'  
+2019-03-29 02:26:57.727127:	 The observation plan has not been performed 
+ 2019-03-29 02:26:57.72:	 End of the observation plan code 
+==========
+2019-03-29 02:26:57.72:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 02:26:57.72:	name 'Grid_ID_planned' is not defined  
+2019-03-29 02:26:57.727943:	 The observation plan has not been stored in the DB 
+ 2019-03-29 02:26:57.72:	 End of the observation plan code 
+==========
+2019-03-29 02:27:32.40:	 Starting the observation plan code  
+2019-03-29 02:27:32.70:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 02:27:32.70:	[Errno 2] No such file or directory: '../trigger/MS190329b/Initial0.xml'  
+2019-03-29 02:27:32.701388:	 The observation plan has not been performed 
+ 2019-03-29 02:27:32.70:	 End of the observation plan code 
+==========
+2019-03-29 02:27:32.70:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 02:27:32.70:	name 'Grid_ID_planned' is not defined  
+2019-03-29 02:27:32.702209:	 The observation plan has not been stored in the DB 
+ 2019-03-29 02:27:32.70:	 End of the observation plan code 
+==========
+2019-03-29 02:28:14.32:	 Starting the observation plan code  
+2019-03-29 02:28:14.62:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 02:28:14.62:	[Errno 2] No such file or directory: '../trigger/MS190329b/Initial0.xml'  
+2019-03-29 02:28:14.625474:	 The observation plan has not been performed 
+ 2019-03-29 02:28:14.62:	 End of the observation plan code 
+==========
+2019-03-29 02:28:14.62:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 02:28:14.62:	name 'Grid_ID_planned' is not defined  
+2019-03-29 02:28:14.626286:	 The observation plan has not been stored in the DB 
+ 2019-03-29 02:28:14.62:	 End of the observation plan code 
+==========
+2019-03-29 02:29:56.74:	 Starting the observation plan code  
+2019-03-29 02:29:57.04:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 02:29:57.04:	[Errno 2] No such file or directory: '../trigger/MS190329b/Initial0.xml'  
+2019-03-29 02:29:57.041483:	 The observation plan has not been performed 
+ 2019-03-29 02:29:57.04:	 End of the observation plan code 
+==========
+2019-03-29 02:29:57.04:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 02:29:57.04:	name 'Grid_ID_planned' is not defined  
+2019-03-29 02:29:57.042320:	 The observation plan has not been stored in the DB 
+ 2019-03-29 02:29:57.04:	 End of the observation plan code 
+==========
+2019-03-29 02:32:01.31:	 Starting the observation plan code  
+2019-03-29 02:32:01.61:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 02:32:01.61:	[Errno 2] No such file or directory: '../trigger/MS190329b/Initial0.xml'  
+2019-03-29 02:32:01.618590:	 The observation plan has not been performed 
+ 2019-03-29 02:32:01.61:	 End of the observation plan code 
+==========
+2019-03-29 02:32:01.61:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 02:32:01.61:	name 'Grid_ID_planned' is not defined  
+2019-03-29 02:32:01.619443:	 The observation plan has not been stored in the DB 
+ 2019-03-29 02:32:01.61:	 End of the observation plan code 
+==========
+2019-03-29 02:32:39.46:	 Starting the observation plan code  
+2019-03-29 02:32:39.76:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 02:32:39.76:	name 'a' is not defined  
+2019-03-29 02:32:39.765224:	 The observation plan has not been performed 
+ 2019-03-29 02:32:39.76:	 End of the observation plan code 
+==========
+2019-03-29 02:32:39.76:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 02:32:39.76:	name 'Grid_ID_planned' is not defined  
+2019-03-29 02:32:39.766044:	 The observation plan has not been stored in the DB 
+ 2019-03-29 02:32:39.76:	 End of the observation plan code 
+==========
+2019-03-29 02:33:07.91:	 Starting the observation plan code  
+2019-03-29 02:33:25.17:	 Starting the observation plan code  
+2019-03-29 02:33:25.49:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 02:33:25.49:	(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GWAC_unit1']'' at line 1")  
+2019-03-29 02:33:25.492491:	 The observation plan has not been performed 
+ 2019-03-29 02:33:25.49:	 End of the observation plan code 
+==========
+2019-03-29 02:33:25.49:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 02:33:25.49:	name 'Grid_ID_planned' is not defined  
+2019-03-29 02:33:25.493369:	 The observation plan has not been stored in the DB 
+ 2019-03-29 02:33:25.49:	 End of the observation plan code 
+==========
+2019-03-29 02:33:50.69:	 Starting the observation plan code  
+2019-03-29 02:35:32.28:	 Starting the observation plan code  
+2019-03-29 02:35:47.72:	 Starting the observation plan code  
+2019-03-29 02:35:48.02:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 02:35:48.02:	(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GWAC_unit1']'' at line 1")  
+2019-03-29 02:35:48.029600:	 The observation plan has not been performed 
+ 2019-03-29 02:35:48.02:	 End of the observation plan code 
+==========
+2019-03-29 02:35:48.03:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 02:35:48.03:	name 'Grid_ID_planned' is not defined  
+2019-03-29 02:35:48.030417:	 The observation plan has not been stored in the DB 
+ 2019-03-29 02:35:48.03:	 End of the observation plan code 
+==========
+2019-03-29 02:37:02.11:	 Starting the observation plan code  
+2019-03-29 02:37:02.41:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 02:37:02.41:	tuple index out of range  
+2019-03-29 02:37:02.418262:	 The observation plan has not been performed 
+ 2019-03-29 02:37:02.41:	 End of the observation plan code 
+==========
+2019-03-29 02:37:02.41:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 02:37:02.41:	name 'Grid_ID_planned' is not defined  
+2019-03-29 02:37:02.419079:	 The observation plan has not been stored in the DB 
+ 2019-03-29 02:37:02.41:	 End of the observation plan code 
+==========
+2019-03-29 02:37:26.67:	 Starting the observation plan code  
+2019-03-29 02:40:01.32:	 Starting the observation plan code  
+2019-03-29 02:40:22.16:	 Starting the observation plan code  
+2019-03-29 02:40:47.92:	 Starting the observation plan code  
+2019-03-29 02:43:01.61:	 Starting the observation plan code  
+2019-03-29 02:43:01.78:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 02:43:01.78:	name 'VOE_decoder_res' is not defined  
+2019-03-29 02:43:01.781640:	 The observation plan has not been performed 
+ 2019-03-29 02:43:01.78:	 End of the observation plan code 
+==========
+2019-03-29 02:43:01.78:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 02:43:01.78:	name 'Grid_ID_planned' is not defined  
+2019-03-29 02:43:01.782509:	 The observation plan has not been stored in the DB 
+ 2019-03-29 02:43:01.78:	 End of the observation plan code 
+==========
+2019-03-29 03:03:34.84:	 Starting the observation plan code  
+2019-03-29 03:03:35.17:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 03:03:35.17:	name 'VOE_decoder_res' is not defined  
+2019-03-29 03:03:35.175377:	 The observation plan has not been performed 
+ 2019-03-29 03:03:35.17:	 End of the observation plan code 
+==========
+2019-03-29 03:03:35.17:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 03:03:35.17:	name 'Grid_ID_planned' is not defined  
+2019-03-29 03:03:35.176246:	 The observation plan has not been stored in the DB 
+ 2019-03-29 03:03:35.17:	 End of the observation plan code 
+==========
+2019-03-29 03:06:12.16:	 Starting the observation plan code  
+2019-03-29 03:06:12.48:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 03:06:12.48:	name 'VOE_decoder_res' is not defined  
+2019-03-29 03:06:12.485824:	 The observation plan has not been performed 
+ 2019-03-29 03:06:12.48:	 End of the observation plan code 
+==========
+2019-03-29 03:06:12.48:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 03:06:12.48:	name 'Grid_ID_planned' is not defined  
+2019-03-29 03:06:12.486681:	 The observation plan has not been stored in the DB 
+ 2019-03-29 03:06:12.48:	 End of the observation plan code 
+==========
+2019-03-29 03:42:29.65:	 Starting the observation plan code  
+2019-03-29 03:42:29.81:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 03:42:29.81:	name 'VOE_decoder_res' is not defined  
+2019-03-29 03:42:29.819315:	 The observation plan has not been performed 
+ 2019-03-29 03:42:29.81:	 End of the observation plan code 
+==========
+2019-03-29 03:42:29.81:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 03:42:29.81:	name 'Grid_ID_planned' is not defined  
+2019-03-29 03:42:29.820120:	 The observation plan has not been stored in the DB 
+ 2019-03-29 03:42:29.82:	 End of the observation plan code 
+==========
+2019-03-29 03:44:05.64:	 Starting the observation plan code  
+2019-03-29 03:44:05.82:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 03:44:05.82:	name 'VOE_decoder_res' is not defined  
+2019-03-29 03:44:05.822647:	 The observation plan has not been performed 
+ 2019-03-29 03:44:05.82:	 End of the observation plan code 
+==========
+2019-03-29 03:44:05.82:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 03:44:05.82:	name 'Grid_ID_planned' is not defined  
+2019-03-29 03:44:05.823490:	 The observation plan has not been stored in the DB 
+ 2019-03-29 03:44:05.82:	 End of the observation plan code 
+==========
+2019-03-29 03:44:21.93:	 Starting the observation plan code  
+2019-03-29 03:44:22.15:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 03:44:22.15:	name 'VOE_decoder_res' is not defined  
+2019-03-29 03:44:22.151164:	 The observation plan has not been performed 
+ 2019-03-29 03:44:22.15:	 End of the observation plan code 
+==========
+2019-03-29 03:44:22.15:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 03:44:22.15:	name 'Grid_ID_planned' is not defined  
+2019-03-29 03:44:22.152081:	 The observation plan has not been stored in the DB 
+ 2019-03-29 03:44:22.15:	 End of the observation plan code 
+==========
+2019-03-29 03:45:12.87:	 Starting the observation plan code  
+2019-03-29 03:45:13.03:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 03:45:13.03:	name 'VOE_decoder_res' is not defined  
+2019-03-29 03:45:13.038592:	 The observation plan has not been performed 
+ 2019-03-29 03:45:13.03:	 End of the observation plan code 
+==========
+2019-03-29 03:45:13.03:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 03:45:13.03:	name 'Grid_ID_planned' is not defined  
+2019-03-29 03:45:13.039529:	 The observation plan has not been stored in the DB 
+ 2019-03-29 03:45:13.03:	 End of the observation plan code 
+==========
+2019-03-29 03:45:31.34:	 Starting the observation plan code  
+2019-03-29 03:45:31.53:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 03:45:31.53:	name 'VOE_decoder_res' is not defined  
+2019-03-29 03:45:31.534636:	 The observation plan has not been performed 
+ 2019-03-29 03:45:31.53:	 End of the observation plan code 
+==========
+2019-03-29 03:45:31.53:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 03:45:31.53:	name 'Grid_ID_planned' is not defined  
+2019-03-29 03:45:31.535594:	 The observation plan has not been stored in the DB 
+ 2019-03-29 03:45:31.53:	 End of the observation plan code 
+==========
+2019-03-29 03:50:28.00:	 Starting the observation plan code  
+2019-03-29 03:50:28.18:	 An ERROR occured when trying to make the observation_plan  
+2019-03-29 03:50:28.18:	name 'XML_file_path' is not defined  
+2019-03-29 03:50:28.185921:	 The observation plan has not been performed 
+ 2019-03-29 03:50:28.18:	 End of the observation plan code 
+==========
+2019-03-29 03:50:28.18:	 An ERROR occured when trying to fill the DB : observation_plan table  
+2019-03-29 03:50:28.18:	name 'Grid_ID_planned' is not defined  
+2019-03-29 03:50:28.186732:	 The observation plan has not been stored in the DB 
+ 2019-03-29 03:50:28.18:	 End of the observation plan code 
+==========
